@@ -1,0 +1,8 @@
+This program calculate the sum of squares of given input of numbers
+
+sum = 0 initializing to our sum to 0
+ForLoop (input_numbers)
+	square = input_number * input_number
+	sum += square --> calculating the sum
+EndFoor
+Return sum
